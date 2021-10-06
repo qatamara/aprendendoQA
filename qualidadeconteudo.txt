@@ -14,3 +14,24 @@ Qualidade do software
 teste             debug e logs       Gestão de erros(saber encontrar erros, tipo de criticidade, saber reportar os erros)
 
 logs são pequenas informaçoes que desenvolvedor coloca no sistema que a gente consegue ler ou informaçoes que estão passando naquela parte do sistema.
+
+
+Qualidade ao longo do ciclo
+
+
+ciclo de desenvolvimento é a maneira de construir o software.
+
+modelos
+
+agile guiado pelo valor, interativo
+
+scrum
+faz pequenas entregas chamadas sprint
+
+kanban
+entrega continua
+faz uma pequena funcionalidade e ja entrega ela 
+
+PAPEL DO QA
+
+Em times ágeis o QA participa de todo o processo e, quanto antes achar o erro, mais barato para o time corrigir.
