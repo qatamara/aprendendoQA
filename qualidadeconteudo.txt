@@ -1,0 +1,16 @@
+Qualidade:é fazer o produto certo para usuario certo, entender o que é o nosso sistema
+que tipo de usuario usa o sistema?
+qual o proposito do sistema?
+
+
+Testar é apenas uma forma que o nosso sistema fique com qualidade
+
+testes são importantes para garantir a qualidade do nosso sistema.
+
+fazer teste em varios niveis do sistema.
+
+Qualidade do software 
+
+teste             debug e logs       Gestão de erros(saber encontrar erros, tipo de criticidade, saber reportar os erros)
+
+
