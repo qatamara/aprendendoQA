@@ -35,3 +35,28 @@ faz uma pequena funcionalidade e ja entrega ela
 PAPEL DO QA
 
 Em times ágeis o QA participa de todo o processo e, quanto antes achar o erro, mais barato para o time corrigir.
+
+Criterios de aceite: exercicio fixação
+
+Funcionalidade: Cadastro
+
+Criterio de Aceite->  
+
+
+Senha de 8 caracteres, no mínimo.
+Todos os campos devem ser obrigatórios.
+Exibir uma mensagem de confirmação em caso positivo.
+Redirecionar o usuário para tela de login.
+Exibir a mensagem de falha, caso usuário já existente.
+Exibir mensagem de falha, caso confirmação de senha não ser igual.
+Exibir mensagem de falha, caso campo obrigatório incompleto.
+
+
+Definição de pronto:
+
+Será considerada pronta a funcionalidade que passar pelas verificações e testes descritas nestes Testplan. Não devem apresentar bugs com severidade acima de minor.
+Até posso aceitar bugs, mas eles têm que ser pequenos. Algo mais crítico que isso e a funcionalidade não pode ser considerada pronta e não pode ir para produção.
+E devem passar por uma validação de negócio de responsabilidade do time de produto.
+
+Definição de pronto tem que ser algo genérico para todas as funcionalidades.
+
