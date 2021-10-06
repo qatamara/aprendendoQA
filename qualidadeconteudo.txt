@@ -13,4 +13,4 @@ Qualidade do software
 
 teste             debug e logs       Gestão de erros(saber encontrar erros, tipo de criticidade, saber reportar os erros)
 
-
+logs são pequenas informaçoes que desenvolvedor coloca no sistema que a gente consegue ler ou informaçoes que estão passando naquela parte do sistema.
